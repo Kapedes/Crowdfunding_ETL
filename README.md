@@ -20,8 +20,8 @@ For the ETL mini project, you will work with a partner to practise building an E
 The instructions for this mini project are divided into the following subsections:
 
 ## Create the Category and Subcategory DataFrames
-  https://github.com/Kapedes/Crowdfunding_ETL/assets/149857428/0cd604f3-5ab3-4604-b139-e14a47a21b6d
-  https://github.com/Kapedes/Crowdfunding_ETL/assets/149857428/0cd604f3-5ab3-4604-b139-e14a47a21b6d
+https://github.com/Kapedes/Crowdfunding_ETL/blob/main/Images/Screenshot%201.png
+
   
 ## Create the Campaign DataFrame
   https://github.com/Kapedes/Crowdfunding_ETL/assets/149857428/69f7b077-9932-4dcc-8ba2-07e2b40330c1
