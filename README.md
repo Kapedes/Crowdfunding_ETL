@@ -20,14 +20,15 @@ For the ETL mini project, you will work with a partner to practise building an E
 The instructions for this mini project are divided into the following subsections:
 
 ## Create the Category and Subcategory DataFrames
-[https://github.com/Kapedes/Crowdfunding_ETL/blob/main/Images/Screenshot%201.png]
+![Screenshot 1](https://github.com/Kapedes/Crowdfunding_ETL/assets/149857428/0cd604f3-5ab3-4604-b139-e14a47a21b6d)
 
+![Screenshot 2](https://github.com/Kapedes/Crowdfunding_ETL/assets/149857428/77f67e72-c692-4bf6-b040-05a29cbefb63)
   
 ## Create the Campaign DataFrame
-  https://github.com/Kapedes/Crowdfunding_ETL/assets/149857428/69f7b077-9932-4dcc-8ba2-07e2b40330c1
-  
+![Screenshot 3](https://github.com/Kapedes/Crowdfunding_ETL/assets/149857428/69f7b077-9932-4dcc-8ba2-07e2b40330c1)
+
 ## Create the Contacts DataFrame
-  https://github.com/Kapedes/Crowdfunding_ETL/assets/149857428/be90120f-b13f-4a25-b676-5b7c5d1e2306
+![Screenshot 4](https://github.com/Kapedes/Crowdfunding_ETL/assets/149857428/be90120f-b13f-4a25-b676-5b7c5d1e2306)
   
 ## Create the Crowdfunding Database
   - crowdfunding_db_schema.sql 
