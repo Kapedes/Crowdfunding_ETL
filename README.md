@@ -14,7 +14,7 @@ For the ETL mini project, you will work with a partner to practise building an E
 # Crowdfunding_ETL folder
 - ETL_Mini_Project_MSintre_DMusa_HHwang_TDemetriou.ipynb
 - crowdfunding_db_schema.sql
-- Crowdfunding ERD.png
+- ERD.png
 
 # Instructions
 The instructions for this mini project are divided into the following subsections:
